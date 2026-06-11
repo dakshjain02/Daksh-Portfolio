@@ -23,7 +23,7 @@ A responsive and modern portfolio website designed to showcase my skills, projec
 
 1. Clone the repository
 
-git clone https://github.com/Dakshjainpiet/Personal-Portfolio.git
+git clone https://github.com/Dakshjainpiet/Daksh-Portfolio.git
 
 2. Open index.html in your browser
 
