@@ -93,13 +93,45 @@ Daksh-Portfolio/
 
 ---
 
+## ⚙️ Installation
+
 ### Clone Repository
 
 ```bash
 git clone https://github.com/Dakshjainpiet/Daksh-Portfolio.git
 ```
 
+### Navigate to Project Folder
+
+```bash
+cd Daksh-Portfolio
+```
+
+### Run Locally
+
+Open:
+
+```text
+index.html
+```
+
+in your browser.
+
 ---
+
+## 📸 Website Sections
+
+✔ Home
+
+✔ About Me
+
+✔ Skills
+
+✔ Projects
+
+✔ Achievements
+
+✔ Contact
 
 ---
 
@@ -129,6 +161,14 @@ git clone https://github.com/Dakshjainpiet/Daksh-Portfolio.git
 
 **Daksh Jain**
 
+B.Tech – Artificial Intelligence & Data Science
+
+Python | Machine Learning | Data Analytics | Web Development
+
 🌍 Portfolio: dakshjain.netlify.app
 
+📧 Open to internship and collaboration opportunities.
+
 ---
+
+⭐ If you like this portfolio, consider giving it a star.
